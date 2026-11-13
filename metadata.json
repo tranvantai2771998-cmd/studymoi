@@ -1,0 +1,6 @@
+{
+  "name": "AURA Atelier & Multi-Screen Studio",
+  "description": "Luxury design atelier and multi-screen lifestyle app with product detail flows, checkout, and live HTML image hotlink studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
